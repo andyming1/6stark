@@ -1,5 +1,2 @@
 # 6starkgrfce
-gtrfed
-tgrfeed
-bgvfcbtgvrfc
-bhtgvrfc
+gtrfe
