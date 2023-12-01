@@ -1,2 +1,1 @@
-# 6starkgrfce
-gtrfe
+# 6starkg
